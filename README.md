@@ -9,7 +9,7 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 
 ---
 
-- 💼 I am a **Passionate Designer** with 4 years of experience in design industry before that I was a Freelance Documentary Photographer 
+- 💼 I am a **Passionate Designer** with 4 years of experience in design industry
 - 🧠 I craft **SaaS dashboards, web apps, and mobile interfaces** that truly convert  
 - 🤖 Currently exploring **AI-integrated design systems** and **advanced UX patterns**  
 - 🌐 All of my projects are available in [Dribbble](https://dribbble.com/ajmain_fayek)  
