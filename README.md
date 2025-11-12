@@ -9,7 +9,7 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 
 ---
 
-- 💼 I am a **Google-Certified UI/UX Designer** and Founder of [Reztive Studio](https://reztive.studio)  
+- 💼 I am a **Google-Certified UI/UX Designer** with 4 years of experience in design industry  
 - 🧠 I craft **SaaS dashboards, web apps, and mobile interfaces** that truly convert  
 - 🤖 Currently exploring **AI-integrated design systems** and **advanced UX patterns**  
 - 🌐 All of my projects are available [here](https://www.ajmainfayek.com)  
@@ -27,7 +27,7 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
   <a href="https://www.ajmainfayek.com" target="_blank">
     <img src="https://img.shields.io/badge/✨%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ajmainfayek" target="_blank">
+  <a href="https://www.linkedin.com/in/ajmain-fayek/" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contact@ajmainfayek.com">
