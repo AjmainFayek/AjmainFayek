@@ -1,19 +1,40 @@
-Hi 👋 I'm Ajmain Fayek,  
-I design and build user experiences.
+## 👋 Hi, I am Ajmain Fayek  
+🎨 **Google-Certified UI/UX Designer** | 🏢 **Founder of [Reztive Studio](https://reztive.studio)**  
+
+I design and build **user experiences that blend strategy, usability, and aesthetics.**  
+From SaaS dashboards to mobile apps — I create interfaces that **convert, engage, and inspire.**
 
 <details>
-  <summary>▼ Click here to know more about me</summary>
+  <summary>✨ Click here to know more about me</summary>
 
 ---
 
-- I am a Google-Certified UI/UX Designer and Founder of [Reztive Studio](https://reztive.com)
-- I craft SaaS dashboards, web apps, and mobile interfaces that convert
-- Currently exploring AI-integrated design systems and advanced UX patterns
-- My projects are available [here](https://ajmainfayek.com)
-- Outside design, I love reading, photography, and exploring human psychology behind user behavior
+- 💼 I am a **Google-Certified UI/UX Designer** and Founder of [Reztive Studio](https://reztive.studio)  
+- 🧠 I craft **SaaS dashboards, web apps, and mobile interfaces** that truly convert  
+- 🤖 Currently exploring **AI-integrated design systems** and **advanced UX patterns**  
+- 🌐 All of my projects are available [here](https://www.ajmainfayek.com)  
+- 📸 Outside design, I love **reading, photography, and exploring human psychology** behind user behavior  
 
 ---
 
-> “Design is not how it looks. It is how it feels when users achieve their goals effortlessly.”
+> 🪄 *“Design is not how it looks. It is how it feels when users achieve their goals effortlessly.”*
 
 </details>
+
+---
+
+<p align="center">
+  <a href="https://www.ajmainfayek.com" target="_blank">
+    <img src="https://img.shields.io/badge/✨%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ajmainfayek" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@ajmainfayek.com">
+    <img src="https://img.shields.io/badge/📬%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajmainfayek&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ajmainfayek" />
+</p>
