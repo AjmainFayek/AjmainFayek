@@ -5,7 +5,7 @@ I design and build **user experiences that blend strategy, usability, and aesthe
 From SaaS dashboards to mobile apps — I create interfaces that **convert, engage, and inspire.**
 
 <details>
-  <summary>✨ Click here to know more about me</summary>
+  <summary> Click here to know more about me</summary>
 
 ---
 
@@ -25,13 +25,13 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 
 <p align="center">
   <a href="https://www.ajmainfayek.com" target="_blank">
-    <img src="https://img.shields.io/badge/✨%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ajmain-fayek/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contact@ajmainfayek.com">
-    <img src="https://img.shields.io/badge/📬%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
