@@ -12,7 +12,7 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 - 💼 I am a **Google-Certified UI/UX Designer** with 4 years of experience in design industry  
 - 🧠 I craft **SaaS dashboards, web apps, and mobile interfaces** that truly convert  
 - 🤖 Currently exploring **AI-integrated design systems** and **advanced UX patterns**  
-- 🌐 All of my projects are available [here](https://www.ajmainfayek.com)  
+- 🌐 All of my projects are available in [Dribbble](https://dribbble.com/ajmain_fayek)  
 - 📸 Outside design, I love **reading, photography, and exploring human psychology** behind user behavior  
 
 ---
