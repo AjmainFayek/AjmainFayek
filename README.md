@@ -5,7 +5,7 @@ I design and build **user experiences that blend strategy, usability, and aesthe
 From SaaS dashboards to mobile apps — I create interfaces that **convert, engage, and inspire.**
 
 <details>
-  <summary><span style="color:#A020F0; font-weight:600;"> Click here to know more about me</summary>
+  <summary><span style="color:#A020F0; font-weight:600;">✨ Click here to know more about me</span></summary>
 
 ---
 
