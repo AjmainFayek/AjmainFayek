@@ -9,10 +9,10 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 
 ---
 
-- 💼 I am a **Passionate Designer** with 4 years of experience in design industry
+- 💼 I am a **Passionate Designer** with 4 years of experience in the design industry  
 - 🧠 I craft **SaaS dashboards, web apps, and mobile interfaces** that truly convert  
 - 🤖 Currently exploring **AI-integrated design systems** and **advanced UX patterns**  
-- 🌐 All of my projects are available in [Dribbble](https://dribbble.com/ajmain_fayek)  
+- 🌐 All of my projects are available on [Dribbble](https://dribbble.com/ajmain_fayek)  
 - 📸 Outside design, I love **reading, photography, and exploring human psychology** behind user behavior  
 
 ---
@@ -24,17 +24,17 @@ From SaaS dashboards to mobile apps — I create interfaces that **convert, enga
 ---
 
 <p align="center">
-  <a href="https://www.ajmainfayek.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://www.ajmainfayek.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/ajmain-fayek/" target="_blank">
-    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ajmain-fayek/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:contact@ajmainfayek.com">
-    <img src="https://img.shields.io/badge/%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:contact@ajmainfayek.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmainfayek&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ajmainfayek" />
+  <img src="https://komarev.com/ghpvc/?username=ajmainfayek&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
