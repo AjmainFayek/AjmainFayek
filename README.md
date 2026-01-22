@@ -1,5 +1,5 @@
 ## 👋 Hi, I am Ajmain Fayek  
-🎨 **Google-Certified UI/UX Designer** & **Design Lead at [Reztive Studio](https://reztive.studio)**  
+🎨 **Google-Certified User Experience Designer** & **Design Lead at [Reztive Studio](https://reztive.studio)**  
 
 I design and build **user experiences that blend strategy, usability, and aesthetics.**  
 From SaaS dashboards to mobile apps — I create interfaces that **convert, engage, and inspire.**
